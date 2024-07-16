@@ -1,7 +1,7 @@
 ## Employee Registeration Project Using Hibernate
 ### Details :-
 
-            1. Entity class should be Employee. It contains emp id, name, salary, role, mobileno. 
+            Entity class should be Employee. It contains emp id, name, salary, role, mobileno. 
             Task 1 => Check whether u are login successfully or not 
                       case 1 if ur valid User display msg Login Successfully 
                       case 2 if ur not valid user display msg Invalid user
